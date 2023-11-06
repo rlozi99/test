@@ -266,10 +266,17 @@ print("구의 겉넓이는"+f"{knel}"+"입니다.")
 
 """
 
-# 피타고라스의 정리 빗변을 구하시오
+"""# 피타고라스의 정리 빗변을 구하시오
 a = float(input("밑변: "))
 b = float(input("높이: "))
 
 pro_c = (a*a)+(b*b)
 c = pro_c **(0.5)
 print("빗변 :"+f"{c}")
+"""
+
+"""
+Hello
+"""
+
+print("Hello")
